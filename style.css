@@ -1,0 +1,21 @@
+
+
+main{
+    width: 100%;
+    height: vh;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+
+}
+.calculadora{
+   display: flex;
+   flex-direction: column;
+   width: 400PX;
+   height: 100px;
+ 
+  
+}
